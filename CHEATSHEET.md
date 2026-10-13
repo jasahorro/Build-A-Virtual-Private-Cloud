@@ -1,5 +1,7 @@
 # Build a Virtual Private Cloud — Cheat Sheet
 
+> 📚 **Part 1 of 9** in my [AWS VPC Series](https://github.com/jasahorro/AWS-VPC-Series) · Next: [VPC Traffic Flow and Security](https://github.com/jasahorro/VPC-Traffic-Flow-and-Security/blob/main/CHEATSHEET.md) →
+
 Lesson notes for reviewing later. The project write-up is in [README.md](README.md). This is the **first project of the NextWork networking series**.
 
 ## Contents
